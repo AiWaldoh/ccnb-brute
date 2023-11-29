@@ -6,6 +6,8 @@ authors = ["AiWaldoh <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+pymysql = "^1.1.0"
+python-dotenv = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
